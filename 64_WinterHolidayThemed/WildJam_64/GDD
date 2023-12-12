@@ -1,25 +1,77 @@
-Contribution Made by @InfluenciaIndebida
-1. Title Page
+GAME DESIGN DOCUMENT
+
+1. Title Page or Why your game sucks
 1.1. Game Name - Perhaps also a subtitle or high concept sentence
 
+Project: Shapeshifter - Shift your way 
+Oklahoma´s monster
+
+
 2. Game Overview
+
+3D top down player begins the game, the levels are snowy and dark and there are people looking for them, the player is given the option to clear each area how they see fit, given tool of stealth, melee, or magic.  The player's play style dictates the effect on the world (i.e: more violent solutions lead to more lethal enemies as the player moves to a new stage) stealth is rewarded by weaker enemies in the long run, but more traps and patrols from enemies. The player consumes enemies and darkness to regen stats and breakable objects litter the maps. Lighting is a key element to the gameplay so everything is set at night with omni lights providing the majority of illumination. The player will also be able to glow momentarily in the dark which can act as a way to find traps in the shadows. The goal RN (Subject to change as always) is a shadowy player hunting or fleeing from a city of local people and depending on how the player plays, their infamy level decides how the townspeople tell your legend. as a violent beast or as a mischievous imp.
+
 2.1 Game Concept
+
+Shapeshifting, the player is given the option to clear each area how they see fit given tools of stealth, melee, or magic.
+
 2.2 Game Genre
+Thriller 3D 3rd-person Shooter
+
 2.3 Target Audience
+Casual gamers (?)
+
 2.4 Pedagogical Objectives(s)
+
+
+
 2.5 Game Flow Summary - How does the player move through the game? What is the visual style?
+
+Lighting is a key element to the gameplay so everything is set at night with omni lights providing the majority of illumination. 
+The player’s playstyle dictates the effect on the world (i.e: more violent solutions lead to more lethal enemies as player moves to a new stage) stealth is rewarded by weaker enemies in the long run, but more traps and patrols from enemies. 
+The player consumes enemies and darkness to regen stats and breakable objects litter the maps. 
+The player will also be able to glow momentarily in the dark which can act as a way to find traps in the shadows. 
+(The goal right now is) a shadowy player hunting or fleeing from a city of local people and depending on how the player plays, their infamy level decides how the townspeople tell your legend. as a violent beast or as a mischievous imp.
+
 2.7 How does the game insert in a pedagogical scenario
 
 3. Gameplay and Mechanics
+
+
 3.1 Gameplay
-3.2 Mechanics - What are the rules to the game, both implicit and explicit. This is th model of the universe that the game works under. Thinkof it as a simulation of a world, how do all the pieces interact? This actually can be a very large section.
+
+
+3.2 Mechanics - What are the rules to the game, both implicit and explicit. This is the model of the universe that the game works under. Think of it as a simulation of a world, how do all the pieces interact? This actually can be a very large section.
+
+
+
+
 3.3 Game Options - What are the options and how do they affect game play and mechanics?
+The player’s playstyle dictates the effect on the world (i.e: more violent solutions lead to more lethal enemies as player moves to a new stage) stealth is rewarded by weaker enemies in the long run, but more traps and patrols from enemies.
+Night Haunter
+Stealth Playstyle
+The Kill: Long Range Grab attack. If successful, instantly and silently kills the target and refunds its MP cost. The Kill can only be used from darkness. High MP cost.
+Muffle: Toggle ability. While active, player's sound is muffled while MP constantly drains.
+Shadow Jump: Jump from one area of darkness to another.
+Night Haunt: Target creature has their head filled with ghostly whispers, causing them to wander towards your location.
+
+Slasher
+"Rip and Tear" Playstyle
+Lunge: Spend MP to lunge a short distance forward, attacking everything in front of you. 30% Current MP cost
+Brutalize: Savagely ambush a target. creating a loud violent scene and scaring all nearby creatures. only usable from darkness. long cooldown.
+Savage Roar: Roar, making a loud sound and scaring nearby creatures. short cooldown.
+Rip and Tear: While Active, double move speed and attack speed. constatly drain MP while active.
+
+Ghoul
+Utility Abilities
+Cannibalize: Devour the target. Fully Restoring HP and MP. You are slowed and take extra damage for 10 seconds after using Cannibalize. Only usable from darkness.  Long Cooldown.
+
 3.4 Constraints due to the pedagogical objective. What are the player's behaviors to avoid or encourage?
 
 4. Story, Setting and Character
 4.1 Story and Narrative
 4.2 Game World
-4.3 Charachters
+4.3 Characters
 
 5. Levels
 5.1 Levels. Each level should include a synopsis, the requiered introductory material (and how it is provided), the objectives, and the details of what happens in the level. Dependind on the game this may include the physical description of the map, the critical path that the player needs to take, and what encounters are important or incidental.
@@ -31,3 +83,8 @@ Contribution Made by @InfluenciaIndebida
 6.2 Control System - How does the game player control the game? What are the specific commands?
 6.3 Audio, Music, Sound effects
 6.4 Help System
+
+
+
+Some of the contributors to this document were:
+@InfluenciaIndebida @Rattlesnake
