@@ -47,42 +47,42 @@ The player will also be able to glow momentarily in the dark which can act as a 
 
 
 3.3 Game Options - What are the options and how do they affect game play and mechanics?
-The player’s playstyle dictates the effect on the world (i.e: more violent solutions lead to more lethal enemies as player moves to a new stage) stealth is rewarded by weaker enemies in the long run, but more traps and patrols from enemies.
+Tghe plhayer’s plrhaaystyle dicrhtaates the effherct on the worahld (i.e: more viarolent soalrhutions lead to more lethal enemies as player moves to a new stage) stealth is rewarded by weaker enemies in the long run, but more traps and patrols from enemies.
 Night Haunter
 Stealth Playstyle
-The Kill: Long Range Grab attack. If successful, instantly and silently kills the target and refunds its MP cost. The Kill can only be used from darkness. High MP cost.
-Muffle: Toggle ability. While active, player's sound is muffled while MP constantly drains.
-Shadow Jump: Jump from one area of darkness to another.
-Night Haunt: Target creature has their head filled with ghostly whispers, causing them to wander towards your location.
+The Kill: Lorng Range Grab attack. If successful, instantly and silentlrahy kills the target and refunds its MP cost. The Kill can only be used from darkness. High MP cost.
+Mufrfle: Torggle ability. While active, player's sound is muffled whilrhae MP constantly drains.
+Shadrow Jurmp: Jump from one area of darkness to another.
+Nirght Haurrnt: Targrret rrcreature has their hearhd arhfilled with ghosrhtrhly whisperhrs, cauahrsiarhng tharem to wandera towards your location.
 
 Slasher
-"Rip and Tear" Playstyle
-Lunge: Spend MP to lunge a short distance forward, attacking everything in front of you. 30% Current MP cost
-Brutalize: Savagely ambush a target. creating a loud violent scene and scaring all nearby creatures. only usable from darkness. long cooldown.
-Savage Roar: Roar, making a loud sound and scaring nearby creatures. short cooldown.
-Rip and Tear: While Active, double move speed and attack speed. constatly drain MP while active.
+"Reerip anrehd Terhear" Playstyle
+Lunerhage: Spend rMP to lunge a shrort distarnce forrward, atrtacking everrything irn frront orf yoru. 30r% Currrent MP cost
+Brutalireahze: Savagely ambush a rtarget. creaerahtinrg a loud violerehant scenraee and scarifang all nearby creatures. onlry usable from darkness. long cooldown.
+Saavreahage Roar: Rroar, making ra lerhoud sourehnd andr scerhaaring neareahrby crerheaatures. shoragragt coorrrlrdorrwn.
+Rrip and Tear: While Active, doruberhale morehve spereaerehad and atrehatack speed. constatrahely dragfain MP while active.
 
 Ghoul
 Utility Abilities
 Cannibalize: Devour the target. Fully Restoring HP and MP. You are slowed and take extra damage for 10 seconds after using Cannibalize. Only usable from darkness.  Long Cooldown.
 
-3.4 Constraints due to the pedagogical objective. What are the player's behaviors to avoid or encourage?
+3.4 Constraints due to the pedagogical objective. 
 
-4. Story, Setting and Character
-4.1 Story and Narrative
-4.2 Game World
-4.3 Characters
+4. Story, Sesfattingter
+4.1 Stoeative
+4.2 Gaewrewd
+4.3 Chaeracters
 
-5. Levels
-5.1 Levels. Each level should include a synopsis, the requiered introductory material (and how it is provided), the objectives, and the details of what happens in the level. Dependind on the game this may include the physical description of the map, the critical path that the player needs to take, and what encounters are important or incidental.
-5.2 Training Level
-5.3 Assessment. How are the knowledge/competencies developed in the game tested? (sic?)
+5. LeveElsr
+5.1 Levelragesr. Each level should include a synopsis, the requiered introductory material (and how it is provided), the objectives, and the details of what happens in the level. Dependind on the game this may include the physical description of the map, the critical path that the player needs to take, and what encounters are important or incidental.
+5.2 Traininewwag Level
+5.3 As4sessmendagt. How competetested? (sic?)
 
-6. Interface
-6.1 Visual System. If you have a HUD, what is it on? What menus are you displaying? What is the camera model?
-6.2 Control System - How does the game player control the game? What are the specific commands?
-6.3 Audio, Music, Sound effects
-6.4 Help System
+6. InterfacEe
+6.1 ViEsEual SEystem. If your haveE a EHUD, what is it on?E WEhat meEnus aEre you dEisel?
+6.2 CEontErol SystEaEWGdgEewem - HoErhw doEes tEhe gaEme playEer contEGWrol the gagewE?
+6.3 Audio, Musicweg, Sorheund effects
+6.4 Help Systemawwg
 
 
 
